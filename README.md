@@ -30,6 +30,10 @@
 重写父类拖动手势改变的监听方法 - (void)scrollViewPanStateDidChange:(NSDictionary *)change NS_REQUIRES_SUPER;
 
 
+MJRefresh中类的继承关系图
+http://images2015.cnblogs.com/blog/844918/201612/844918-20161223165601276-405408093.png
+
+如果不需要自定义的header或footer可直接使用MJRefresh中的相关类
 
 
 
